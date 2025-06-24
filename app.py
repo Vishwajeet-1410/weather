@@ -6,7 +6,7 @@ import pickle
 import os
 
 # ✅ Full path to your saved model (.sav file)
-MODEL_PATH = "C:/summerintenship machine learning/Spider FIles/app/weather.sav"
+MODEL_PATH = "weather.sav"
 
 # 🌐 Streamlit Page Setup
 st.set_page_config(page_title="🌤️ Weather Predictor", page_icon="🌦️", layout="centered")
